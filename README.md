@@ -1,4 +1,4 @@
-## Vinicius D. Oliveira Rocha
+## Vinicius D Oliveira Rocha
 
 Information Systems student focused on backend development and data engineering.
 
