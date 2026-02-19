@@ -1,47 +1,58 @@
-<h1 align="center">Hi, I'm Vinicius 👋</h1>
+<h1 align="center">Vinicius D. Oliveira Rocha</h1>
 
 <p align="center">
-  Information Systems Student | Backend & Data Focused  
+  Systems Information Student  
+  <br>
+  Backend & Data Focused  
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 Systems Information student
-- 🧠 Focused on Backend & Data Engineering
-- ☁️ Learning Cloud Architecture
-- 🎯 Goal: Become a Software Engineer and evolve towards Architecture
-- 🌎 Seeking financial stability & geographic freedom
+I'm currently building a strong technical foundation in backend development and data engineering.
+
+My focus is not hype — it's depth.
+
+I aim to understand how systems truly work:  
+from database to backend logic, from algorithms to architecture decisions.
 
 ---
 
-## 🛠️ Tech Stack (Learning)
+## 🛠 Tech Stack (Currently Learning)
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,postgres,git,github,linux" />
 </p>
+
+- Java (Algorithms & Backend fundamentals)
+- SQL & Database Modeling
+- Git & Version Control
+- Linux environment basics
+
+---
+
+## 📌 Current Focus (2026)
+
+- Strengthening Algorithms & Data Structures
+- Deepening Database knowledge
+- Understanding how APIs work
+- Building structured personal systems
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vi1cius&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vi1cius&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 🎯 Long-Term Goal
 
-- Algorithms & Data Structures
-- Database Modeling
-- Backend Development
-- Building structured personal systems
+Become a Software Engineer / Data Engineer  
+and evolve towards Software Architecture.
 
----
-
-## ⚡ Long Term Vision
-
-> Competence generates freedom.
+Competence generates freedom.
