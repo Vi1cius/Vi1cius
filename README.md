@@ -1,41 +1,47 @@
-# Vinicius D Oliveira Rocha
+<h1 align="center">Hi, I'm Vinicius 👋</h1>
 
-Information Systems student focused on Backend Development and Data Engineering.
-
-Currently building a strong technical foundation in:
-
-- Java
-- SQL & Database Modeling
-- Web & API development
-- Algorithms and Data Structures
-- Cloud architecture fundamentals
+<p align="center">
+  Information Systems Student | Backend & Data Focused  
+</p>
 
 ---
 
-## 🎯 Career Goal
+## 🚀 About Me
 
-Become a Software Engineer / Data Engineer and evolve towards Software Architecture.
-
-I am focused on building structured systems, understanding how data flows through applications, and developing strong backend foundations.
-
----
-
-## 📚 Current Focus (2026)
-
-- Strengthening algorithms (Java)
-- Deepening database knowledge
-- Understanding system architecture basics
-- Building personal structured projects
+- 🎓 Systems Information student
+- 🧠 Focused on Backend & Data Engineering
+- ☁️ Learning Cloud Architecture
+- 🎯 Goal: Become a Software Engineer and evolve towards Architecture
+- 🌎 Seeking financial stability & geographic freedom
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack (Learning)
 
-- `estrutura-dados` – Java exercises and algorithm practice
-- `Gerenciador-de-Restaurantes` – Academic project involving backend logic and database integration
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgres,git,github,linux" />
+</p>
 
 ---
 
-## 🌎 Long-Term Vision
+## 📊 GitHub Stats
 
-Financial stability, geographic freedom, and technical autonomy through deep engineering competence.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Algorithms & Data Structures
+- Database Modeling
+- Backend Development
+- Building structured personal systems
+
+---
+
+## ⚡ Long Term Vision
+
+> Competence generates freedom.
